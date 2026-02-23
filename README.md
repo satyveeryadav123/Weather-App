@@ -29,7 +29,7 @@ This app fetches real-time weather data using the WeatherAPI and displays temper
 
 ## 🌍 Live Demo
 
-👉 https://satyveeryadav123.github.io/To-Do-list-web-/
+👉 https://satyveeryadav123.github.io/Weather-App/
 
 
 ## 📸 Preview
